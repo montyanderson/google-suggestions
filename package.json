@@ -1,0 +1,22 @@
+{
+  "name": "google-autocomplete",
+  "version": "1.0.0",
+  "description": "Scrape autocomplete suggestions from Google Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/google-autocomplete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montyanderson/google-autocomplete/issues"
+  },
+  "homepage": "https://github.com/montyanderson/google-autocomplete#readme",
+  "dependencies": {
+    "got": "^6.5.0"
+  }
+}
