@@ -1,6 +1,6 @@
 {
-  "name": "google-autocomplete",
-  "version": "1.0.0",
+  "name": "google-suggestions",
+  "version": "0.0.1",
   "description": "Scrape autocomplete suggestions from Google Search",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/montyanderson/google-autocomplete.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/montyanderson/google-autocomplete/issues"
   },
