@@ -1,6 +1,6 @@
 {
   "name": "google-suggestions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scrape autocomplete suggestions from Google Search",
   "main": "index.js",
   "scripts": {
