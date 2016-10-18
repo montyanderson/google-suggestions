@@ -1,6 +1,8 @@
 # google-suggestions
 Scrape autocomplete suggestions from Google Search
 
+[![Build Status](https://travis-ci.org/montyanderson/google-suggestions.svg?branch=master)](https://travis-ci.org/montyanderson/google-suggestions)
+
 ```
 npm install google-suggestions --save
 ```
