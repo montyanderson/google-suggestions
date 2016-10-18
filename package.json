@@ -4,7 +4,7 @@
   "description": "Scrape autocomplete suggestions from Google Search",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/montyanderson/google-autocomplete#readme",
   "dependencies": {
     "got": "^6.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
   }
 }
