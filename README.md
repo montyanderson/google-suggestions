@@ -14,8 +14,8 @@ suggestions("my hat")
 ```
 
 ``` javascript
-[ 'i want </b>my hat back</b>',
-  'this is not </b>my hat',
-  'all around </b>my hat',
-  'wherever i lay </b>my hat' ]
+[ 'i want my hat back',
+  'this is not my hat',
+  'all around my hat',
+  'wherever i lay my hat' ]
 ```
